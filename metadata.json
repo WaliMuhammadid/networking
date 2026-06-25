@@ -1,0 +1,6 @@
+{
+  "name": "DevOps Networking Academy",
+  "description": "An interactive, client-side educational platform designed to teach the absolute basics of networking through the lens of DevOps workflows with real-time simulators, visual subnetting, proxy visualizers, quizzes, and configuration assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

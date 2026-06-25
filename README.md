@@ -1,3 +1,16 @@
+# Project Status Badges
+
+### Assignment 1: CI Workflow
+[![CI Workflow](https://github.com/WaliMuhammadid/networking/actions/workflows/ci.yml/badge.svg)](https://github.com/WaliMuhammadid/networking/actions/workflows/ci.yml)
+
+### Assignment 2: Matrix CI
+[![Matrix CI](https://github.com/WaliMuhammadid/networking/actions/workflows/matrix-ci.yml/badge.svg)](https://github.com/WaliMuhammadid/networking/actions/workflows/matrix-ci.yml)
+
+
+
+
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
